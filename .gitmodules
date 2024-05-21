@@ -1,0 +1,3 @@
+[submodule "SC-ZeroMarketplace/lib/forge-std"]
+	path = SC-ZeroMarketplace/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
